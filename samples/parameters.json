@@ -1,0 +1,15 @@
+{
+  "availabilitySets_ra_multi_vm_as_name": "ra-multi-vm-as",
+  "virtualMachines_ra_multi_vm_names": ["ra-multi-vm1", "ra-multi-vm2"],
+  "computer_names": ["cn1", "cn2"],
+  "virtualMachines_ra_multi_vm_adminUsername": "testuser",
+  "virtualMachines_ra_multi_vm_adminPassword": "dadaU8987!",
+  "loadBalancers_ra_multi_vm_lb_name": "ra-multi-vm-lb",
+  "publicIPAddresses_ra_multi_vm_lb_fe_config1_pip_name": "ra-multi-vm-lb-fe-config1-pip",
+  "storageAccounts_name": "vmwrxcm2demosa2st1",
+  "virtualNetworks_ra_multi_vm_vnet_name": "ra-multi-vm-vnet",
+  "networkInterfaces_ra_multi_nic1_names": ["ra-multi-vm1-nic1", "ra-multi-vm2-nic1"],
+  "loadBalancers_ra_multi_vm_probe_name": "lbp1",
+  "networkSecurityGroups_ra_multi_vm_nsg_name": "ra-multi-vm-nsg"
+}
+
