@@ -123,3 +123,5 @@ target/
 .rvmrc
 
 # Created by .ignore support plugin (hsz.mobi)
+
+Gemfile.lock
